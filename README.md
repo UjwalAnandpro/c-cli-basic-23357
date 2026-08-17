@@ -1,8 +1,3 @@
 # c-cli-basic-23357
 
-AI README generation failed.
-
-## Main File
-```
-src/main.c
-```
+This repository contains boilerplate code for c-cli-basic-23357.
